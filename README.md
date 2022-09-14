@@ -1,4 +1,4 @@
-# Lamp-page
+# Design Lamp-page
 
 
 - Contém CSS & JavaScript.
